@@ -30,6 +30,19 @@ I'm a passionate developer and continuous learner skilled in **Java, Python, and
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)
 
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=ianujrathore&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ianujrathore&theme=tokyonight&layout=compact&hide_border=true)
+
+![](https://streak-stats.demolab.com?user=ianujrathore&theme=tokyonight&hide_border=true)
+
+</div>
+
 ### 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/i-anujrathore)
