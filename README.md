@@ -30,18 +30,27 @@ I'm a passionate developer and continuous learner skilled in **Java, Python, and
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)
 
+---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=ianujrathore&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ianujrathore&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true"/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ianujrathore&theme=tokyonight&layout=compact&hide_border=true)
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ianujrathore&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 
-![](https://streak-stats.demolab.com?user=ianujrathore&theme=tokyonight&hide_border=true)
+<img height="165" src="https://streak-stats.demolab.com?user=ianujrathore&theme=tokyonight&hide_border=true"/>
 
 </div>
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ianujrathore&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
 
 ### 📫 Let's Connect
 
